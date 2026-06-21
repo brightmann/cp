@@ -1,6 +1,6 @@
 ---
 title: 战马
-date: '20-06-2026 21:33:00'
+date: '20-06-2026'
 slug: 'fh'
 previewImage: '/images/articles/poetry-cover.png'
 description: '这是一篇文章'
