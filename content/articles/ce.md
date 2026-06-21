@@ -1,6 +1,6 @@
 ---
 title: 稀奇古怪的中国经济
-date: '20-06-2026 21:35:00'
+date: '20-06-2026'
 slug: 'ce'
 previewImage: '/images/articles/poetry-cover.png'
 description: '这是一篇文章'
